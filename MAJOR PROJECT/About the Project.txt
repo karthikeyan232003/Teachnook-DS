@@ -1,0 +1,5 @@
+This File Contains The Major Project:
+
+Problem Statement:
+
+Given a dataset containing columns like cgpa,placement etc and needed to create a classification model that can predict whether a student gets placed or not.
