@@ -1,0 +1,9 @@
+MODULES/PACKAGES NEEDED TO BE INSTALLED
+
+1.	 playsound
+pip install playsound
+2.	 opencv
+pip install opencv
+3.	 plyer
+pip install plyer
+
